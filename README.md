@@ -1,6 +1,4 @@
-# task3-linear-regression
-Linear Regression implementation for housing price prediction using Python and Scikit-learn — part of AI
-# Task 3: Linear Regression - AI & ML Internship
+Linear Regression - AI & ML Internship
 
 This repository contains the implementation of **simple and multiple linear regression** using the Housing Price Prediction dataset. This task was completed as part of the AI & ML Internship Program.
  Objective
